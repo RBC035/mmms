@@ -1,0 +1,59 @@
+		MASO MEMORIAL MANAGEMENT SYSTEM(MMMS)
+
+userame for admin
+------
+== > password for admin
+0000
+
+username dean of student
+MMMS/ZNZ.DEAN/0067/21
+== > password for dean of student
+1234
+
+
+username for president 
+MNMA/BDZ.EKH/0054/17
+president
+== > password for president 
+1111
+
+username for Vice President
+vice
+== > password for president 
+3333
+
+username of dsr
+MNMA/BDZ.EGH/0036/17
+MNMA/C.BA/0002/21
+MNMA/ODZ.ICT/0011/19
+MNMA/C.HRM/0004/19
+== > password for dsr
+4444
+
+
+username for cr
+MNMA/BDZ.EHE/0021/17
+MNMA/ODZ..GI/0003/18
+MNMA/C.BA/0002/19
+MNMA/C.LIM/0001/19
+MNMA/C.ED/0001/18
+cr
+== > password for cr
+9999
+
+username ministers
+dsr		    -> Minister of Loan
+MNMA/ODZ.ED/0005/19 -> Minister of Health
+MNMA/C.REC/0005/19  -> Minister of Education
+salum12s            -> Minister of Information
+MNMA/C.ED/0001/21   -> Minister of Security
+MNMA/ODZ.BA/0001/19 -> Minister of Finance
+MNMA/ODZ.AC/0011/19 -> Minister of Women
+== > password for ministers
+1234
+
+username for prime minister
+MNMA/ODZ.COD/0025/19 -> Prime Minister
+== > password for Prime Minister
+2222
+
